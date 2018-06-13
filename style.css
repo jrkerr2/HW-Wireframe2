@@ -1,70 +1,89 @@
 html {
     
     background-color: transparent;
-    padding: 10px;
-    margin: auto;
+
 }
 
 body {
-    margin: auto;
+    
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     color: #777;
     background-color: #777;
     width: 960px;
     font-size: 18px;
-    margin: 0;
 
 }
 
 p {
+    color: #777;
     background-color: #ebebeb;
-    height: 75px;
-    margin: 10px;
+    border: solid 5px green;
+    
+}
+
+h3 {
+    color: #777;
+    background-color: #ebebeb;
+    border: solid 5px green;
+    
 }
 
 header {
+    text-align: center;
     background-color: #ebebeb;
-    width: 960px;
+    border: solid 10px yellow;
+    width: 495px;
     height: 75px;
-    margin: 10px;
-    margin: auto;
+    margin: 5px;
 }
 
 nav {
-    height: 75px;
+    
+    text-align: center;
     background-color: #ebebeb;
-    margin: 10px;
+    border: solid 10px yellow;
+    width: 495px;
+    height: 75px;
+    margin: 5px;
 }
 
 section {
-    float: left;
+    text-align: center;
     background-color: #ebebeb;
-    margin: 10px;
+    border: solid 10px yellow;
+    width: 495px;
+    height: 75px;
+    margin: 5px;
 }
 
 aside {
-    float: right;
+    text-align: center;
     background-color: #ebebeb;
-    margin: 10px;
+    border: solid 10px yellow;
+    width: 495px;
+    height: 75px;
+    margin: 5px;
 }
 
 article {
     
-    float: left;
-    color: #ebebeb;
-    background-color: #777;
-    margin: 10px;
-
-placeholder {
-        
+    text-align: center;
     background-color: #ebebeb;
-    margin: 10px;
-    }
+    border: solid 10px yellow;
+    width: 495px;
+    height: 75px;
+    margin: 5px;
+
 }
 
+
 footer {
+    text-align: center;
+    background-color: #ebebeb;
+    border: solid 10px yellow;
+    width: 495px;
     height: 75px;
-    background-color: #ebebeb; 
-    margin: 10px;
+    margin: 5px;
+
 }
