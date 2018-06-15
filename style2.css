@@ -1,0 +1,11 @@
+a:hover {
+    background-color: orange
+}
+
+a:default {
+    background-color: yellowgreen
+}
+
+a:focus {
+    background-color: black
+}
